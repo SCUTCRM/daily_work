@@ -17,3 +17,11 @@ activity需不需要添加？
 代办事项是什么？
 事件是什么？
 最后的营销项目是什么？
+6.campaign部分的:
+查重怎么实现
+activity需不需要添加？
+7.leads部分的:
+查重怎么实现
+activity需不需要添加？
+PBXManager需不需要添加？
+更改拥有者在哪里
